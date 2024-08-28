@@ -1,7 +1,7 @@
 //import React from 'react'
 
 import { DownloadOutlined, GithubOutlined, InstagramOutlined, LinkedinOutlined } from "@ant-design/icons"
-import pdf from '../../pdf/resume.pdf.pdf'
+import pdf from '../../pdf/muskan.resume.pdf'
 const Banner = () => {
     return (
         <>
