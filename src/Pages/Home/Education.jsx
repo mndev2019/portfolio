@@ -16,7 +16,7 @@ const Education = () => {
 
                         <div className="col-span-1">
                             <div className=" w-full h-full rounded-lg bg-[#140c1c] shadow-lg shadow-[#140c1c] p-5 mt-8 education">
-                                <p className="text-primary text-xl font-bold">JUL 2024 - Present</p>
+                                <p className="text-primary text-xl font-bold">AUG 2023 - Present</p>
                                 <h1 className="text-light font-bold lg:text-2xl md:text-2xl text-xl mt-2">Frontend Development intern</h1>
                                 <p className="text-light text-md font-light mt-2">Frantic infotech pvt ltd</p>
                                 <p className="text-light text-md font-light mt-2">Noida U.P</p>
